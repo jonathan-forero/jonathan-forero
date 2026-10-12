@@ -7,8 +7,7 @@ understanding how systems work to collaborating on real-world code.
 
 ![Software
 Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-2563EB?style=flat-square)
-![Currently learning Git and
-GitHub](https://img.shields.io/badge/Currently%20Learning-Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+![Currently learning](https://img.shields.io/badge/Currently%20Learning-Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 ![Goal: Full-Stack plus
 AI](https://img.shields.io/badge/Goal-Full--Stack%20%2B%20AI-7C3AED?style=flat-square)
 
@@ -16,13 +15,13 @@ AI](https://img.shields.io/badge/Goal-Full--Stack%20%2B%20AI-7C3AED?style=flat-s
 
 ## 👨‍💻 About Me
 
--   📚 Following a structured learning path toward **Full-Stack
+-   📚 **Full-Stack
     Development and AI Engineering**.
 -   🧠 Focused on understanding concepts and applying them to new
     problems 
 -   🖥️ Building a foundation in computer systems, logical thinking, the
     terminal, and version control.
--   🌎 Working toward becoming a **bilingual software engineer** who can
+-   🌎 **bilingual software engineer** who can
     collaborate across international teams.
 -   🚀 Interested in creating maintainable software and learning how AI
     can solve practical problems.
